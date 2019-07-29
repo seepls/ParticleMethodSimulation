@@ -1,0 +1,52 @@
+#######-FREQUENTLY-USED-DATA-######################################
+#--------OutputFilenames-------------------------------------------
+nameOfDataFile                                     input.data
+nameOfGridFile                                     input.grid
+nameOfForcedMotionFile                             input.forcedMotion
+nameOfConcentrationFile                            input.concentration
+#--------SimulationParameters--------------------------------------
+timeStepDT                                         0.01
+finishTime                                         10
+averageParticleDistance                            0.040
+intf                                               1.2
+omega(deg/s)                                       180
+impurities                                         0
+#--------PhysicalProperties----------------------------------------
+liquidDensity                                      958.366
+gasDensity                                         1.225
+liquidViscosity                                    1.002E-3
+Temperature                                        373
+headPressure                                       100000
+impurityDiffusionCoeff                             2.1E-9
+surfaceTension                                     71.97E-9
+henryCoeff                                         78020.25
+molecularWeight                                    28.966
+contactAngle                                       1
+numberOfLiquids                                    2
+diffusionCoefficient                               0
+maxVelocity                                        1
+#--------Geometry--------------------------------------------------
+typeOfGeometry*                                    15
+#------------------------------------------------------------------
+########                                           ***
+########                                           ***
+########                                           ***
+########                                           ***
+
+
+
+*
+type0: 2D water column
+type1: 2D straight Line Poiseuille Flow
+type2: 2D rectangle Poiseuille Flow
+type3: 2D diagonal Line Poiseuille Flow
+type4: 2D Circle Poiseuille Flow
+type5: 2D half Circle Poiseuille Flow
+type6: 2D Single Vortex
+type7: 3D Bucket with cube (0.5 x 0.5 x 0.5)
+type8: 3D same as type 7 without wall
+type9: 3D Spinning Ball
+type10:3D Poiseuille Flow
+type11:3D Stirring Tank Paddle
+type12:3D Stirring Tank Anchor
+type13:3D Stirring Tank Maxblend
