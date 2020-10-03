@@ -14,3 +14,6 @@ The project further deals with calculating a roughly accurate value of **interfa
 
 
 Demo : 
+
+1. Paddle Blade
+![alt text](https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/PADDLE.png)
