@@ -17,3 +17,14 @@ Demo :
 
 1. Paddle Blade
 ![alt text](https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/PADDLE.png)
+
+2. Helical Blade
+![alt text] (https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/SingleHelical.png)
+
+3. Double Helical Ribbon
+![alt text] (https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/DoubleHELICAL.png)
+
+
+
+With further analysis proved that Double helical blade was the best !
+![alt text] (https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/InterfaceAreaComparision.png)
