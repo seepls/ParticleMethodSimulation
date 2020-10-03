@@ -26,5 +26,5 @@ Demo :
 
 
 
-With further analysis proved that **Double helical blade was the BEST BLADE DESIGN** !
+With further analysis proved that **helical blade was the BEST BLADE DESIGN** !
 ![alt text](https://github.com/seepls/ParticleMethodSimulation/blob/master/Images/InterfaceAreaComparision.png)
